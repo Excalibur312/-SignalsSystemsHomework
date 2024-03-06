@@ -1,0 +1,34 @@
+ % prompt = "What is the value? ";
+ % number= input(prompt);
+ % result1= power(number,2);
+ % result2=number^2;
+ % result3= sqrt(number);
+ % disp('Result 1 = ' );
+ % disp(result1);
+ % disp('Result 2 = '); 
+ % disp(result2);
+ % disp('Result 3 = '); 
+ % disp(result3);
+ %prompt = "Enter a message to have lenght ";
+ %word= input(prompt);
+ %lengcharacter=length(word);
+ %disp(lengcharacter);
+ %x=sin(pi/2);
+ %disp(x);
+ %float (12456.36);
+ %x=12456.36*6;
+ %disp(x);
+ %number1= input("Please the enter number");
+ %number2 = input ("please the enter number ");
+ %total= number1 + number2;
+ %disp(total);
+ %initial_value =25;
+ %xpected_value 25 percent of the inital value
+ %d=25;
+ %number= d*3/4;
+ %display(number);
+ %calculateMappingAvailable
+ %format short e
+ %x= 10+25+360^36+3652354;
+ %disp(x);
+PSR=Ekran Kaydedici
